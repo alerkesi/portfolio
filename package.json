@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "devDependencies": {
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
+  }
+}
